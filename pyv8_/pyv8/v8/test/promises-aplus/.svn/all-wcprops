@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/20016/trunk/test/promises-aplus
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/20016/trunk/test/promises-aplus/README
+END
+promises-aplus.status
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/20016/trunk/test/promises-aplus/promises-aplus.status
+END
+testcfg.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/20016/trunk/test/promises-aplus/testcfg.py
+END

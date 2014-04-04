@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/20359/trunk/test/mjsunit/es6/regress
+END
+regress-2829.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/20359/trunk/test/mjsunit/es6/regress/regress-2829.js
+END
+regress-2034.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/20359/trunk/test/mjsunit/es6/regress/regress-2034.js
+END
+regress-2156.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/20359/trunk/test/mjsunit/es6/regress/regress-2156.js
+END

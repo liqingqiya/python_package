@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/20016/trunk/test/promises-aplus/lib
+END
+mocha.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/20016/trunk/test/promises-aplus/lib/mocha.js
+END
+require.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/20016/trunk/test/promises-aplus/lib/require.js
+END
+global.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/20016/trunk/test/promises-aplus/lib/global.js
+END
+adapter.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/20016/trunk/test/promises-aplus/lib/adapter.js
+END
+assert.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/20016/trunk/test/promises-aplus/lib/assert.js
+END
+run-tests.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/20016/trunk/test/promises-aplus/lib/run-tests.js
+END
